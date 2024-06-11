@@ -49,9 +49,9 @@ Or:
 ## TODO
 
 - React Hooks testing
-- Add ESLint rules
 - Pre-commit hooks
+- Add more ESLint rules
 
-Optionals:
+Optional:
 
 - CSpell checks
